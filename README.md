@@ -1,4 +1,6 @@
 # Lab1_Web
+What character in ASCII is used to represent Leia's hair? @ is used to represent Leia's hair.
+
 Morse code of "ye shall be as gods": -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 
 What is there while going upstairs in the house? Going up the kitchen's staircase leads up to the attic with a knife and a rope in a corner also a square brick that feels like clay.
