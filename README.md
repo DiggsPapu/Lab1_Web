@@ -1,4 +1,10 @@
 # Lab1_Web
+# Diego Andres Alonzo Medinilla 20172
+What is the actual moon phase?  Last Quarter +
+ |      5 12:31:50
+ |@     New Moon -
+ |      1  6:10:12
+
 What character in ASCII is used to represent Leia's hair? @ is used to represent Leia's hair.
 
 Morse code of "ye shall be as gods": -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
